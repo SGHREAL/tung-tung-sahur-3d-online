@@ -2,7 +2,8 @@
     "name": "Tung Tung Sahur 3D ONLINE",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-raycasting": "github:The-Code-Zone/Raycasting-pxt-extension#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3"
     },
     "files": [
         "main.blocks",
